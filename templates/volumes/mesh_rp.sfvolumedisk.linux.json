@@ -29,7 +29,7 @@
               "codePackages": [
                 {
                   "name": "mongoService",
-                  "image": "mongo",
+                  "image": "mongo:latest",
                   "volumes": [
                     {
                       "name": "myvol",
